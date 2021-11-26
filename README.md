@@ -1,1 +1,1 @@
-# galaxy-chromebook-linux
+# install fedora on galaxy-chromebook
